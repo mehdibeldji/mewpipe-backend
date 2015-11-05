@@ -1,0 +1,19 @@
+[
+  {
+    "model": "Profiles",
+    "items": [
+      {
+        "id": 1,
+        "name": "Public"
+      },
+      {
+        "id": 2,
+        "name": "MewPipeUsers"
+      },
+      {
+        "id": 3,
+        "name": "PrivateLink"
+      }
+    ]
+  }
+]
